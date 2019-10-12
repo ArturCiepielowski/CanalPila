@@ -18,8 +18,22 @@ a:link {
   text-decoration: none;
 }
 
+a.pkpLink:link  {
+  color:  #888888;
+  font-family:'Poppins', sans-serif;
+  font-style: normal;
+  text-decoration: none;
+}
+
 a:visited {
   color: white;
+  font-family: 'Poppins', sans-serif;
+    font-style: normal;
+  text-decoration: none;
+}
+
+a.pkpLink:visited {
+  color: #888888;
   font-family: 'Poppins', sans-serif;
     font-style: normal;
   text-decoration: none;
@@ -214,6 +228,10 @@ iframe {
   }
    
   
+}
+
+.pkpLink{
+  color:#888888;
 }
 
 .salon{
