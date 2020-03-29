@@ -264,6 +264,30 @@ iframe {
   
 }
 
+.uwaga{
+
+  font-family: 'Poppins', sans-serif;
+    font-style: normal;
+
+  &__header{
+    font-size: 32px;
+    color: red;
+  }
+
+  &__offerContainer{
+
+    display: block;
+    max-width: 100%;
+    width: 850px;
+    margin: auto;
+    margin-top:64px;
+  }
+
+ 
+   
+  
+}
+
 
 
 @media (min-width: 901px) {
